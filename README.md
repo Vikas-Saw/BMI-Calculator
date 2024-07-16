@@ -13,6 +13,6 @@
 #### 6.Error Handling - Address potential issues with data storage or retrieval.
 #### 7.User Experience - Ensure a responsive and user-friendly GUI with clear instructions and feedback.
 
-### Project Demonstration Link - ***https://www.linkedin.com/posts/vikash-kr-saw_oasisinfobyte-oasisinfobytefamily-internship-activity-7218955763354918912-tFMa?utm_source=share&utm_medium=member_desktop***
+### Project Demonstration Link - **https://www.linkedin.com/posts/vikash-kr-saw_oasisinfobyte-oasisinfobytefamily-internship-activity-7218955763354918912-tFMa?utm_source=share&utm_medium=member_desktop**
 
 
