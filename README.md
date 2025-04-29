@@ -1,4 +1,4 @@
-# BMI-Calculator
+# Graphical BMI Calculator and Health Tracker
 ## Basic BMI Calculator using Python.
 
 ### Project description - It's a graphical BMI calculator with a user-friendly interface (GUI) using libraries like Tkinter or PyQt. Allow users to input weight and height, calculate BMI, and visualize the result. Enable data storage for multiple users, and BMI trend analysis through statistics and graphs.
